@@ -1,0 +1,18 @@
+.disable-ripple {
+    user-select: text !important;
+    /* Enable text selection */
+}
+
+.disable-ripple:hover {
+    background-color: inherit !important;
+    box-shadow: none !important;
+    user-select: text !important;
+
+    
+}
+
+/* Additionally, to remove any other Material-UI default hover effects, you might need */
+.disable-ripple * {
+    user-select: text !important;
+    /* Ensure all nested elements allow text selection */
+}
