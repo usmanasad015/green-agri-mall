@@ -32,7 +32,7 @@
     "@mui/icons-material": "^5.15.11",
     "@mui/lab": "^5.0.0-alpha.147",
     "@mui/material": "^5.15.18",
-    "@mui/styles": "^5.15.12",
+    "@mui/styles": "^5.16.14",
     "@mui/x-date-pickers": "^6.19.6",
     "@react-pdf/renderer": "^3.4.2",
     "@remix-run/router": "^1.15.2",
